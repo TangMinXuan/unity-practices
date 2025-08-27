@@ -1,0 +1,19 @@
+﻿{
+  "items": [
+    {
+      "id": 1,
+      "name": "大长矛",
+      "description": "长矛沾屎, 戳谁谁死",
+      "iconPath": "",
+      "sceneTag": "Common"
+    },
+    {
+      "id": 2,
+      "name": "大宝剑",
+      "description": "大宝剑沾屎, 砍谁谁死",
+      "iconPath": "",
+      "sceneTag": "Common"
+    }
+  ]
+}
+
